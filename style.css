@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #fff9f5;
+    color: #333;
+}
+h1 {
+    color: #d6336c;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}
